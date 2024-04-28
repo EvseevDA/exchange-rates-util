@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ExchangeRatesUtil:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExchangeRatesUtil_jar</output-path>
+    <root id="archive" name="ExchangeRatesUtil.jar">
+      <element id="module-output" name="ExchangeRatesUtil" />
+    </root>
+  </artifact>
+</component>
