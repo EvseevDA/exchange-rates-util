@@ -98,6 +98,7 @@ public class Validator {
         Objects.requireNonNull(o9);
         Objects.requireNonNull(o10);
     }
+
     public static void requireNonNull(Object... objects) {
         Objects.requireNonNull(objects);
 
